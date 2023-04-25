@@ -13,9 +13,7 @@ function getTime(volume,productivity)
 function multiply(a,b){
     return a*b 
 }
-function multiply(a,b){
-    return a*b 
-}
+
 
 if (undefined){
     console.log("this is true")
